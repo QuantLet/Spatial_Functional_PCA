@@ -12,6 +12,6 @@ Keywords :
 - basis
 - factor analysis
 
-Author:          Chen Huang
+Author:          Chen Huang, Yingxing Li
 
 Submitted:        Wednesday, June 20 2018 by Chen Huang
